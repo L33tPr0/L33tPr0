@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**L33tPr0/L33tPr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aspiring Software Engineer
+```JS
+const ME = {
+  name: ["Myrold", "Andrew", "J"]
+  myCoffeeAlts: [
+    { music: "Classical" },
+    { travel: "The World" },
+    { hotel: "Trivago" },
+    { games: [
+      "Factorio",
+      "Terraria",
+      "Path of Exile"
+    ]},
+    { arts: [
+      "Culinary",
+      "Martial"
+    ]},
+  ];
+  programmingExp: {
+    backEnd: {
+      JavaScript: ["Node", ]
+    },
+    frontEnd: []
+    other:["Git", ]
+  },
+};
+```
