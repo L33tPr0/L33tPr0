@@ -21,7 +21,7 @@ const ME = {
       JavaScript: ["Node", ]
     },
     frontEnd: []
-    other:["Git", ]
+    other: ["Git", ]
   },
 };
 ```
