@@ -1,7 +1,7 @@
 ## Aspiring Software Engineer
 ```JS
 const ME = {
-  name: ["Myrold", "Andrew", "J"]
+  name: ["Myrold", { Andrew: "J" }],
   myCoffeeAlts: [
     { music: "Classical" },
     { travel: "The World" },
@@ -14,8 +14,8 @@ const ME = {
     { arts: [
       "Culinary",
       "Martial"
-    ]},
-  ];
+    ]}
+  ],
   programmingExp: {
     backEnd: {
       JavaScript: ["Node", ]
