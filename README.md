@@ -20,7 +20,7 @@ const ME = {
     backEnd: {
       JavaScript: ["Node", ]
     },
-    frontEnd: []
+    frontEnd: [],
     other: ["Git", ]
   },
 };
