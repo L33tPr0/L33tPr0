@@ -18,9 +18,11 @@ const ME = {
   ],
   programmingExp: {
     backEnd: {
-      JavaScript: ["Node", ]
+      JavaScript: [
+        "Node", "Sequelize", "Express"
+      ],
     },
-    frontEnd: [],
+    frontEnd: ["HTML", "CSS"],
     other: ["Git", ]
   },
 };
