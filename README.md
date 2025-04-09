@@ -21,8 +21,11 @@ const ME = {
       JavaScript: [
         "Node", "Sequelize", "Express"
       ],
+      Python: [
+        "Pip", "SQLAlchemy", "Flask"
+      ],
     },
-    frontEnd: ["HTML", "CSS"],
+    frontEnd: ["HTML", "CSS", ],
     other: ["Git", ]
   },
 };
