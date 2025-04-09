@@ -1,4 +1,4 @@
-## Aspiring Software Engineer
+## Software Engineer
 ```JS
 const ME = {
   name: ["Myrold", { Andrew: "J" }],
